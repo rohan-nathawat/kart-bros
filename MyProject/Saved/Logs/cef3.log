@@ -1,0 +1,10 @@
+[19184:16888:0118/181430.902:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19184:4592:0118/181431.178:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19184:16888:0118/181431.326:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19184:16888:0118/181455.822:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[19184:16888:0118/181513.848:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[19184:16888:0118/181519.001:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19184:16888:0118/181529.164:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19184:16888:0118/181549.351:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19184:16888:0118/181619.509:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19184:16888:0118/181739.316:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
